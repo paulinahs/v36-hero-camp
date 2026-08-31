@@ -1,19 +1,18 @@
 .hero {
-    background-color: #0f3d3e;
     padding: 3rem 1.5rem;
-    color: #fde68a;
+    color: #b749ae;
     font-family: sans-serif;
 }
 
 .hero .btn {
     color: #0f172a;
-    background-color: #fde68a;
+    background-color: #f6aff2;
 }
 
 
 .card {
     margin: 1.5rem 0;
     padding: 1.25rem;
-    background-color: #f1f5f9;
-    color: #1e293b;
+    background-color: rgb(255, 185, 213);
+    color: #0f172a;
 }
