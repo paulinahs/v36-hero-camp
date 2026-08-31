@@ -1,4 +1,4 @@
-body {
-    margin: 0;
-    padding: 0;
+.hero {
+    background-color: #0f3d3e;
+    padding: 3rem 1.5rem;
 }
