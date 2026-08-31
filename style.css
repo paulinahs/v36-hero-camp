@@ -9,3 +9,11 @@
     color: #0f172a;
     background-color: #fde68a;
 }
+
+
+.card {
+    margin: 1.5rem 0;
+    padding: 1.25rem;
+    background-color: #f1f5f9;
+    color: #1e293b;
+}
