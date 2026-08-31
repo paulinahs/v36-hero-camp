@@ -1,7 +1,7 @@
 ## Hur fungerar CSS-arv?
 
-Vissa egenskaper rinner från förälder till barn — framför allt text:
-color och font-family. Box Model gör inte det. padding och
+Vissa egenskaper rinner från förälder till barn, speciellt allt text,
+color och font-family. Box Model gör inte det. Padding och
 background-color stannar på elementet du stylar.
 
 I vår Hero sätter vi color och font-family på .hero. Då blir h1,
